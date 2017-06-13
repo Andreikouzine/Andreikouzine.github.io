@@ -1,0 +1,6 @@
+/* CUSTOM CSS */
+
+.homepage #header-wrapper {
+	background-size: 100%;
+	background-position-y: -3100px;
+}
